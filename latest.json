@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "notes": "Слежка за страницами, скрипт внутри сценария и постраничная выборка. Уведомления больше не повторяются, а тесты не пишут на рабочий стол.",
-  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.2.0/Automaton_0.2.0_amd64.deb",
-  "sha256": "aa2285d352ef647798f1c60d8ee0266d3a51cf25b324a7ff277f74c52e88ee35"
+  "version": "0.2.1",
+  "notes": "Пакет объявляет libnotify-bin, без которого первый же готовый сценарий падал на чистой машине.",
+  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.2.1/Automaton_0.2.1_amd64.deb",
+  "sha256": "e0233c708cff4092c296347063759ae5bf9b2ff690d0bdb04cb889a2843e3bcd"
 }
