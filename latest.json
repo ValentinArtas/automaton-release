@@ -2,5 +2,5 @@
   "version": "0.2.0",
   "notes": "Слежка за страницами, скрипт внутри сценария и постраничная выборка. Уведомления больше не повторяются, а тесты не пишут на рабочий стол.",
   "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.2.0/Automaton_0.2.0_amd64.deb",
-  "sha256": "572b93afe22264e690f37b005663af326c6de1fb1756df65ca5ef874417bc14e"
+  "sha256": "aa2285d352ef647798f1c60d8ee0266d3a51cf25b324a7ff277f74c52e88ee35"
 }
