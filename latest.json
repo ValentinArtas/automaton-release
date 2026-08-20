@@ -1,6 +1,1 @@
-{
-  "version": "0.2.1",
-  "notes": "Пакет объявляет libnotify-bin, без которого первый же готовый сценарий падал на чистой машине.",
-  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.2.1/Automaton_0.2.1_amd64.deb",
-  "sha256": "e0233c708cff4092c296347063759ae5bf9b2ff690d0bdb04cb889a2843e3bcd"
-}
+{"version": "0.3.0", "notes": "Сценарий может остановиться и спросить человека — ответить можно с телефона по ссылке. Программа умеет запускаться вместе с системой. Сломанное больше не шлёт по сообщению в минуту, а «сервис занят» не считается отказом.", "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.3.0/Automaton_0.3.0_amd64.deb", "sha256": "bfb699479c422d9cd105cf7c602226ec517b325dd4108627ce6617832732279b"}
