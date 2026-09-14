@@ -1,14 +1,15 @@
 {
-  "version": "0.5.3",
-  "notes": "Полка образцов выросла с восьми готовых сценариев до двадцати восьми: двадцать новых названы по ремёслам — сисадмин, бухгалтер, юрист, врач, переводчик, редактор и другие, — и на каждый можно просто нажать ▷, он отработает целиком. Два образца умеют спрашивать модель, и работать это может на бесплатной местной Ollama, без единого ключа: нужную модель образец называет прямо в подсказке. Серверный режим едет своим пакетом: на голый сервер он тянет 10 пакетов вместо 279 и не требует ни одной графической библиотеки; вместе с ним ставится сторож, который замечает зависший движок и поднимает его. На Windows программа ставится туда, куда обещает, окно помещается на экран, подписи русские на русской системе, а --version и --help наконец печатают ответ, а не пустоту. История прогонов ограничена не только числом строк, но и объёмом.",
-  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.3/Automaton_0.5.3_amd64.deb",
-  "sha256": "fcbf6a59798009dae23432d62d246e42bb1b2b220badcaf62705fa194ebbcef3",
+  "version": "0.5.4",
+  "notes": "Забытый пароль больше не тупик: его можно сменить на самой машине. Ошибка в выражении теперь говорит, что лежит рядом, а для массива подсказывает квадратные скобки. У каждого поля узла появилась подсказка. Сохранённая учётка бота сразу отвечает, какой это бот. Карта канвы спрятана за кнопкой. Закрыты четыре поломки у двери и в журнале, и переписка владельца больше не попадает в журнал.",
+  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_amd64.deb",
+  "sha256": "f4c2db339e7ad2e2ab00902601dbf8dd9037696fcd4854797dd36b00162581dd",
   "builds": {
-    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.3/Automaton_0.5.3_amd64.deb",
-    "windows": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.3/Automaton_0.5.3_x64_ru-RU.msi"
+    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_amd64.deb",
+    "windows": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_x64_ru-RU.msi",
+    "macos": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_aarch64.dmg"
   },
   "server": {
-    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.3/automaton-server_0.5.3_amd64.deb",
-    "sha256": "7a4d02cd9d203dccff4c60a2dd86a04717aa9fb9908fdc2d7de878d645414c72"
+    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/automaton-server_0.5.4_amd64.deb",
+    "sha256": "3ab0bb398216db39a85fde25f4d3b9f55de41b8d19552ed87a7e4362a237c076"
   }
 }
