@@ -1,0 +1,111 @@
+Automaton
+Copyright (c) 2026 Валентин Шмидт (smidtver@gmail.com). Все права защищены.
+All rights reserved.
+
+РУССКИЙ
+
+Это закрытая программа. Исходный код, сборки, оформление и документация
+принадлежат правообладателю, названному выше.
+
+Без отдельного письменного разрешения правообладателя не допускается:
+
+  * копировать, публиковать и распространять программу или её части;
+  * изменять программу, разбирать её или восстанавливать исходный код
+    из сборки;
+  * передавать программу третьим лицам, сдавать её в аренду, включать
+    в состав другого продукта или оказывать с её помощью услуги другим лицам.
+
+ТЕСТОВАЯ СБОРКА: ЧТО РАЗРЕШЕНО
+
+Сборки выкладываются открыто, на странице выпусков
+https://github.com/ValentinArtas/automaton-release/releases — чтобы их можно
+было взять и опробовать. Всякий, кто скачал сборку оттуда, тем самым получает
+разрешение установить её и пользоваться ею на своих компьютерах для своих
+задач — бесплатно и без ограничения по времени.
+
+Разрешение даётся на сборку, а не на исходный код: исходный код не
+выкладывается и остаётся закрытым. Это сделано намеренно и не является
+упущением.
+
+Разрешение личное: оно не переходит вместе с копией к кому-то ещё. Запреты
+выше остаются в силе — в частности, нельзя выкладывать сборку у себя, продавать
+её и оказывать с её помощью услуги другим лицам. Хотите передать программу
+кому-то — дайте ссылку на страницу выпусков, чтобы человек получил разрешение
+так же, как получили его вы.
+
+Это **тестовая версия**, выпуск младше единицы. Она может измениться, в ней
+могут найтись ошибки, а сценарии, собранные в ней, могут потребовать правки
+после обновления. Замечания и найденные ошибки можно присылать в
+https://github.com/ValentinArtas/automaton-release/issues — это помогает, но
+ни к чему вас не обязывает.
+
+Правообладатель может изменить условия для будущих выпусков. На ту сборку,
+которую вы уже скачали, разрешение остаётся прежним.
+
+Программа поставляется «как есть». Правообладатель не даёт гарантий её
+пригодности для каких-либо целей и не отвечает за убытки, возникшие
+из её использования, — включая потерю данных и последствия автоматизаций,
+которые вы настроили сами.
+
+Внутри программы используется код других авторов, распространяемый под
+собственными условиями. Он перечислен в THIRD-PARTY-NOTICES.md, и эти
+условия остаются в силе: настоящий файл их не отменяет и не может отменить.
+
+ENGLISH
+
+This is proprietary software. The source code, the builds, the visual design
+and the documentation belong to the copyright holder named above.
+
+Without separate written permission from the copyright holder you may not:
+
+  * copy, publish or distribute the program or any part of it;
+  * modify it, disassemble it, or reconstruct its source from a build;
+  * pass it to third parties, rent it out, include it in another product,
+    or use it to provide services to others.
+
+A TEST BUILD: WHAT IS ALLOWED
+
+Builds are published openly, on the releases page
+https://github.com/ValentinArtas/automaton-release/releases — so that they can
+be taken and tried. Anyone who downloads a build from there is thereby given
+permission to install it and use it on their own computers for their own
+purposes, free of charge and with no time limit.
+
+The permission covers the build, not the source: the source code is not
+published and stays closed. That is deliberate, not an oversight.
+
+The permission is personal: it does not travel with a copy to anybody else.
+The prohibitions above remain in force — in particular, you may not host the
+build yourself, sell it, or use it to provide services to others. To pass the
+program to somebody, give them the link to the releases page, so that they
+receive the permission the same way you did.
+
+This is a **test version**, a release below 1.0. It may change, it may hold
+mistakes, and workflows built in it may need fixing after an update. Remarks
+and mistakes you find are welcome at
+https://github.com/ValentinArtas/automaton-release/issues — that helps, but it
+obliges you to nothing.
+
+The copyright holder may change the terms for future releases. For the build
+you have already downloaded, the permission stays as it is.
+
+The program is provided "as is", without warranty of any kind. The copyright
+holder is not liable for any damages arising from its use, including loss of
+data and the consequences of automations you have set up yourself.
+
+The program contains code by other authors under their own terms, listed in
+THIRD-PARTY-NOTICES.md. Those terms remain in force; this file neither
+overrides them nor could.
+
+---
+
+Это не юридическая консультация. Файл написан понятным языком и покрывает
+обычный случай «программа моя, пользоваться дал». Прежде чем продавать
+программу или отдавать её организации, покажите условия юристу: у продажи
+появляются вопросы, которых здесь нет, — возврат денег, ответственность
+за простой, права на данные заказчика.
+
+This is not legal advice. It is written in plain language and covers the
+ordinary case: the program is mine, and I let you run it. Before selling it
+or handing it to a company, have a lawyer look at the terms — selling raises
+questions this file does not answer.
