@@ -1,15 +1,15 @@
 {
-  "version": "0.5.4",
-  "notes": "Забытый пароль больше не тупик: его можно сменить на самой машине. Ошибка в выражении теперь говорит, что лежит рядом, а для массива подсказывает квадратные скобки. У каждого поля узла появилась подсказка. Сохранённая учётка бота сразу отвечает, какой это бот. Карта канвы спрятана за кнопкой. Закрыты четыре поломки у двери и в журнале, и переписка владельца больше не попадает в журнал.",
-  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_amd64.deb",
-  "sha256": "f4c2db339e7ad2e2ab00902601dbf8dd9037696fcd4854797dd36b00162581dd",
+  "version": "0.5.5",
+  "notes": "Сборка больше не рассказывает, на чьей машине она собрана: пути сборочной машины из неё убраны. В остальном — то же, что 0.5.4.",
+  "where": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.5/Automaton_0.5.5_amd64.deb",
+  "sha256": "9394c849a4d13f896ecce5676981ccf826e146ee446bd52801d4ed07fdac1245",
   "builds": {
-    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_amd64.deb",
-    "windows": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_x64_ru-RU.msi",
-    "macos": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/Automaton_0.5.4_aarch64.dmg"
+    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.5/Automaton_0.5.5_amd64.deb",
+    "windows": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.5/Automaton_0.5.5_x64_ru-RU.msi",
+    "macos": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.5/Automaton_0.5.5_aarch64.dmg"
   },
   "server": {
-    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.4/automaton-server_0.5.4_amd64.deb",
-    "sha256": "3ab0bb398216db39a85fde25f4d3b9f55de41b8d19552ed87a7e4362a237c076"
+    "linux": "https://github.com/ValentinArtas/automaton-release/releases/download/v0.5.5/automaton-server_0.5.5_amd64.deb",
+    "sha256": "6bc5ec40818af92d9114200c0229e049dc22c841745de25623e99cfd7d25f0bc"
   }
 }
